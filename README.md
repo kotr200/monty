@@ -1,2 +1,2 @@
-# monty
+:# monty
 C
